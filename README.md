@@ -3,6 +3,9 @@ Double meaning
 
 A mysterious collection of images, all variations of the same design.
 
+
+![Mysterious image](https://raw.github.com/pantherhash/ph_0/master/ph_0_thumb.png "How many alphabets is used?")
+
 Riddle
 ===
 
@@ -19,4 +22,4 @@ Hints
 
 How many alphabets are used in the images? 
 
-![Work deployed at DIKU](https://raw.github.com/pantherhash/ph_0/master/ph_0_diku.jpg "Finish Pantherhash 0 at DIKU")
+![Work deployed at DIKU](https://raw.github.com/pantherhash/ph_0/master/ph_0_diku.jpg "Pantherhash 0 at DIKU")
