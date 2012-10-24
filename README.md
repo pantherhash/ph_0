@@ -17,4 +17,4 @@ Hints
 
 No hints posted yet
 
-![Work deployed at DIKU](https://raw.github.com/pantherhash/ph_0/master/ph_0_diku.jpeg "Finish Pantherhash 0 at DIKU")
+![Work deployed at DIKU](https://raw.github.com/pantherhash/ph_0/master/ph_0_diku.jpg "Finish Pantherhash 0 at DIKU")
