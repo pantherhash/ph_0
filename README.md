@@ -4,7 +4,7 @@ Double meaning
 A mysterious collection of images, all variations of the same design.
 
 
-![Mysterious image](https://raw.github.com/pantherhash/ph_0/master/ph_0_thumb.png "How many alphabets is used?")
+![Mysterious image](https://raw.github.com/pantherhash/ph_0/master/ph_0_thumb.png "How many alphabets are used to write the message?")
 
 Riddle
 ===
