@@ -15,6 +15,6 @@ Post you answer on the [page for this pantherhash](http://pantherhash.com/ph_0/ 
 Hints
 ===
 
-No hints posted yet
+How many alphabets are used in the images? 
 
 ![Work deployed at DIKU](https://raw.github.com/pantherhash/ph_0/master/ph_0_diku.jpg "Finish Pantherhash 0 at DIKU")
