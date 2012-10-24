@@ -22,4 +22,7 @@ Hints
 
 How many alphabets are used in the images? 
 
+Riddle in the wild
+===
+
 ![Work deployed at DIKU](https://raw.github.com/pantherhash/ph_0/master/ph_0_diku.jpg "Pantherhash 0 at DIKU")
